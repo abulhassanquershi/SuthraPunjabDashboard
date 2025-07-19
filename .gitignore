@@ -1,0 +1,14 @@
+# Ignore all SQLite database files
+*.db
+
+# Ignore compiled Python files and cache
+*.pyc
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore environment files (if using .env for secrets)
+.env
+
+
